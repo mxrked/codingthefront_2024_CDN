@@ -198,24 +198,42 @@
   },
   {
     "projectID": "P_006",
-    "projectType": "",
-    "projectImg": "",
-    "projectCode": "",
-    "projectDemo": "",
-    "projectName": "",
-    "projectClientName": "",
-    "projectStatus": "",
-    "projectCompletionDate": "",
-    "projectDesc": "",
-    "projectProcessTimelineArray": [],
-    "projectProcessChallengesArray": [],
-    "projectProcessAchievementsArray": [],
-    "projectToolsText": "",
-    "projectToolsArray": [],
-    "projectResultText": "",
-    "projectDomain": "",
-    "projectHosting": "",
-    "projectPages": ""
+    "projectType": "Practice",
+    "projectImg": "https://raw.githubusercontent.com/mxrked/codingthefront_2024_CDN/main/imgs/projects/animex-streaming-display.webp",
+    "projectCode": "https://github.com/mxrked/animex_streaming",
+    "projectDemo": "https://sparkling-dragon-f3af91.netlify.app/",
+    "projectName": "Animex Streaming",
+    "projectClientName": "N/A",
+    "projectStatus": "Completed",
+    "projectCompletionDate": "2022",
+    "projectDesc": "A anime streaming website dedicated to all things anime. You can view the different types of popular and underrated anime on this website by clicking on your perferred series. You will be able to search and view the trailer of each series.",
+    "projectProcessTimelineArray": [
+      "Gathered materials such as images, colors and fonts.",
+      "Created a XD design for the building phase.",
+      "Began building the project using ReactJS, Next.js, Sass, BootStrap.",
+      "Completed project!"
+    ],
+    "projectProcessChallengesArray": [
+      "Creating a more modern and plesant looking design.",
+      "Creating responsive and fast loading images.",
+      "Creating a page for each series."
+    ],
+    "projectProcessAchievementsArray": [
+      "Using Netlify for faster loadtimes",
+      "Created a contact form using EmailJS",
+      "Completed the project!"
+    ],
+    "projectToolsText": "The tools that were used creating this project were ReactJS, Next.js, Sass and BootStrap.",
+    "projectToolsArray": [
+      "https://raw.githubusercontent.com/mxrked/codingthefront_2024_CDN/main/icons/programming-languages/react.webp",
+      "https://raw.githubusercontent.com/mxrked/codingthefront_2024_CDN/main/icons/programming-languages/nextjs.webp",
+      "https://raw.githubusercontent.com/mxrked/codingthefront_2024_CDN/main/icons/programming-languages/sass.webp",
+      "https://raw.githubusercontent.com/mxrked/codingthefront_2024_CDN/main/icons/programming-languages/bootstrap.webp"
+    ],
+    "projectResultText": "The result of this project was the creation of a more modern and up-to-date anime streaming website that allows the user to pick and choose between the different anime they would like to watch.",
+    "projectDomain": "sparkling-dragon-f3af91.netlify.app",
+    "projectHosting": "N/A",
+    "projectPages": "3 Static"
   },
   {
     "projectID": "P_007",
